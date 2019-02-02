@@ -1,0 +1,7 @@
+C:\Users\Kerev\source\repos\StarLabs\StarLabs\bin\Debug\StarLabs.exe.config
+C:\Users\Kerev\source\repos\StarLabs\StarLabs\bin\Debug\StarLabs.exe
+C:\Users\Kerev\source\repos\StarLabs\StarLabs\bin\Debug\StarLabs.pdb
+C:\Users\Kerev\source\repos\StarLabs\StarLabs\obj\Debug\StarLabs.csprojAssemblyReference.cache
+C:\Users\Kerev\source\repos\StarLabs\StarLabs\obj\Debug\StarLabs.csproj.CoreCompileInputs.cache
+C:\Users\Kerev\source\repos\StarLabs\StarLabs\obj\Debug\StarLabs.exe
+C:\Users\Kerev\source\repos\StarLabs\StarLabs\obj\Debug\StarLabs.pdb
